@@ -1,0 +1,6 @@
+{
+  "name": "FluidIQ",
+  "description": "FluidIQ is an AI-powered smart assistant and interactive simulator for the J4012 Pneumatics & Hydraulics module.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
